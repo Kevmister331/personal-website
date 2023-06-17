@@ -35,6 +35,8 @@ import javascript from "./javascript.png";
 import htmlcss from "./htmlcss.png";
 import react from "./react.png";
 import sql from "./sql.png";
+import linkedinlogo from "./linkedin.png";
+import github from "./github.png";
 
 export {
   airbnb,
@@ -74,4 +76,6 @@ export {
   htmlcss,
   react,
   sql,
+  github,
+  linkedinlogo
 };
